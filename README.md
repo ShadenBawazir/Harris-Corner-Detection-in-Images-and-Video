@@ -1,7 +1,8 @@
-# Harris-Corner-Detection-in-Images-and-Video
-## Harris Corner Detection in Images and Video
+# BSCS 4388 - Computer Vision: Lab 3 & 4
+
 
 **Student Name:** Shaden Bawazir
+
 **Course:** BSCS 4388 - Computer Vision
 **Instructor:** Dr. Anas Al-Tirawi
 
@@ -18,7 +19,7 @@ This repository contains the implementation of the **Harris Corner Detection** a
 - `harris_corner_detection_video.py` : Python script for video processing.
 - `harris_corner_detection_image.jpg` : Source image used for testing.
 - `harris_corner_detection_image_V.mp4` : Source video used for testing.
-- `screenshots/` : Folder containing "Before & After" screenshots for both image and video.
+- Images used in this README are located in the root directory.
 
 ---
 
